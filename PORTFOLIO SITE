@@ -1,0 +1,128 @@
+#GWC PROJECT
+#PRACTICE USING CSS BY CREATING A WEBSITE PORTFOLIO
+p{
+	color:grey;
+	text-align:center;
+	font-family: "Bernard MT Condensed";
+	font-size:30px; 
+
+	}
+	
+h1 {
+	font-family: "Arial";
+	text-align:center;
+	color: black;
+	font-size: 50px;
+	
+}
+
+h3 {
+	font-family: "Arial";
+	text-align: center;
+	color:black;
+	font-size: 35px;
+	
+}
+
+h4 {
+	font-family:"Arial";
+	text-align: center;
+	color:grey;
+	font-size: 25px;
+}
+
+h2 {
+	font-family: "Arial";
+	text-align: center;
+	color: grey;
+	font-size: 25px;
+	
+}
+
+img {
+   display: block;
+   width: auto;
+   margin: auto;
+ 
+}
+
+a{
+	color: black;
+	font-size: 20px;
+	display:inline;
+
+	
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+	display:inline;
+
+}
+
+li {
+	display: inline;
+	text-align: center;
+}
+
+
+ACTUAL HTML CODE
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Girl's Who Code 2016: Profile</title>
+		<link rel = "stylesheet" href = "myStyles.css">
+		<p>
+		<img src="pikachu2.gif" alt="something" align="middle" border="0" >
+		<br>
+		<audio controls>
+			<source src="IJWD.mp3" type="audio/mpeg">
+		</audio>
+
+	</head>
+	<b>
+	<h1>WELCOME</h1>
+	</b>
+	<sub>
+	<h2>TO MY PORTFOLIO SITE!</h2>
+	<ul>
+	</ul>
+	<body style="background-color:white;" >
+		<br>
+		<br>
+		<br>
+		<h3> MEET THE PROGRAMMER </h3>
+		<h4>MY NAME IS NICOLE! I AM AN ASPIRING CODER FROM THE BAY AREA! 
+		<br>I AM CURRENTLY SEVENTEEN YEARS OLD AND ATTEND SAINT IGNATIUS HIGH SCHOOL!
+		<br>THIS WEBSITE IS AN OUTLINE OF WHAT I HAVE ACCOMPLISHED AT GIRLS WHO CODE!</h4>
+		<br>
+		<h3>PROJECTS</h3>
+		<br>
+		<br>
+		<h4>OBAMICON</h4>
+		<img src="obamicon.jpg" alt="something"style="margin:auto" align="middle">
+		<br>
+		<h4>SNOWGLOBE</h4>
+		<img src="snow3.jpg" alt="something" style="margin:auto" align="middle">
+		<h4>SCENE</h4>
+		<img src="scene2.jpg" alt"something"style="margin:auto" align="middle">
+	
+		
+	</body>
+	
+
+	
+	
+	
+</html>
+
+
+
+
+
+
+	
+
+
