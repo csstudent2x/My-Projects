@@ -1,3 +1,4 @@
+#GWC PROJECT
 choice = input("Go left or right? \n")
 if choice == "left":
 	print("You run into a group of bandits.")
