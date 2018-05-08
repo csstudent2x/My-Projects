@@ -1,3 +1,6 @@
 # My-Projects
 
-Projects I have created during GIRLS WHO CODE
+Projects I have during GIRLS WHO CODE
+
+MADLIBS - prompts user to fill in blank
+MASH - Python version of Mansion Apartment Shack House
