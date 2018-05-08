@@ -1,6 +1,5 @@
 #GWC PROJECT
 #GUIDANCE COMMENTS MADE BY GWC
-
 import pygame
 import random
 
