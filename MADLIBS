@@ -1,4 +1,5 @@
 #GWC PROJECT
+
 noun = input("Write a noun \n")
 print("The girl decides to go to the " + noun + " after school.")
 verb = input("Write a verb \n")
