@@ -1,5 +1,4 @@
 #GWC PROJECT
-
 from turtle import *
 #sun
 penup()
