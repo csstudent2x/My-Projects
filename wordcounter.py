@@ -1,4 +1,4 @@
-
+"""
 Word counter and more!
 
 This program allows user to input a file and output a file including the
