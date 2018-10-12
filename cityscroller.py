@@ -9,7 +9,6 @@ GWC PROJECT
 
 import pygame
 import random
-#define some colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
@@ -185,18 +184,9 @@ while not done:
 		if event.type == pygame.QUIT:
 			done = True
 
-	# --- game logic should go here
-
-	# --- screen-clearing code goes here
-
-	# here, we clear the screen to white. don't put other drawing commands
-	# above this, or they will be erased with this command
-
-	# if you want a background image, replace this clear with blit'ing the
-	# background image.
 	screen.fill(BACKGROUND_COLOR)
 
-	# --- drawing code should go here
+	
 	
 	back_scroller.draw_buildings()
 	back_scroller.move_buildings()
