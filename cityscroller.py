@@ -1,5 +1,11 @@
-#GWC PROEJECT
-#guidance comments by GWC
+
+"""
+
+GWC PROJECT
+"I WOULD PREPARE TO FAIL WITH HONOR THAN WIN BY CHEATING." - SOPHOCLES
+
+"""
+
 
 import pygame
 import random
