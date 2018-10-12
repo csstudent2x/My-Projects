@@ -5,7 +5,6 @@ GWC PROJECT
 
 """
 import random
-
 career_list=["journalist", "chef", "filmmaker","graphic designer","architect","engineer"]
 career_length=len(career_list)
 random_index = random.randint(0, career_length)
