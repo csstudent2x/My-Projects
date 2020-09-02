@@ -5,7 +5,7 @@ This program allows user to input a file and output a file including the
 frequency of the words! In addition, the program prints the longest word and
 the five most common words in the console!
 
-"I WOULD PREPARE TO FAIL WITH HONOR THAN WIN BY CHEATING." - SOPHOCLES
+
 
 """
 import string
